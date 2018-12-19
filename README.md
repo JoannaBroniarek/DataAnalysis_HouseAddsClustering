@@ -1,5 +1,5 @@
 # Does basic house information reflect house's description?
-========================================
+-------------------------------------------
 
 Joanna Broniarek, Vikranth Ale, Matteo Cavalletti
 
@@ -8,6 +8,7 @@ Joanna Broniarek, Vikranth Ale, Matteo Cavalletti
 **The aim of this project was to perform a clustering analysis of house announcements in Rome from Immobiliare.it.**
 
 ## Data Source
+Data scrapping started from this link: https://www.immobiliare.it/vendita-case/roma/?criterio=rilevanza&pag=1
 
 ## Steps
 1. Creating two datasets (**Information Dataset and Description Dataset**) according to data scrapped from websites. Retrieving at least 10000 announcements.
